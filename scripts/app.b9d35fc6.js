@@ -1,0 +1,1 @@
+"use strict";!function(){$(document).ready(function(){$(document).foundation({equalizer:{equalize_on_stack:!0}}),$(".gotoPortfolio").click(function(){return $("html, body").animate({scrollTop:$($.attr(this,"href")).offset().top},500),!1})})}();
